@@ -74,3 +74,57 @@
 ![GPT Codex](https://img.shields.io/badge/Codex-GPT-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
+
+## Ingeniero en Inteligencia Artificial en formación
+
+Progreso general de la carrera
+
+<!-- Actualiza el valor de la barra según asignaturas aprobadas -->
+![Avance](https://progress-bar.dev/0/?width=300)
+
+| Materia | Sin cursar | Cursando | Aprobado |
+| --- | --- | --- | --- |
+| Sistemas y Métodos | [x] | [ ] | [ ] |
+| Análisis Matemático I | [x] | [ ] | [ ] |
+| Sistemas Digitales I | [x] | [ ] | [ ] |
+| Álgebra | [x] | [ ] | [ ] |
+| Análisis Matemático II | [x] | [ ] | [ ] |
+| Arquitectura de Computadores | [x] | [ ] | [ ] |
+| Estructuras de Datos y Algoritmos | [x] | [ ] | [ ] |
+| Álgebra Lineal | [x] | [ ] | [ ] |
+| Fundamentos de Inteligencia Artificial | [x] | [ ] | [ ] |
+| Probabilidad y Estadística | [x] | [ ] | [ ] |
+| Introducción a la Ingeniería de Software | [x] | [ ] | [ ] |
+| Análisis de Sistemas | [x] | [ ] | [ ] |
+| Probabilidad y Estadística II | [x] | [ ] | [ ] |
+| Aprendizaje de Máquina | [x] | [ ] | [ ] |
+| Análisis de la Información y la Decisión | [x] | [ ] | [ ] |
+| Matemática Discreta | [x] | [ ] | [ ] |
+| Introducción a las Comunicaciones | [x] | [ ] | [ ] |
+| Física I | [x] | [ ] | [ ] |
+| Laboratorio II | [x] | [ ] | [ ] |
+| Redes Neuronales | [x] | [ ] | [ ] |
+| Procesamiento de Lenguaje Natural | [x] | [ ] | [ ] |
+| Big Data | [x] | [ ] | [ ] |
+| Sistemas Operativos | [x] | [ ] | [ ] |
+| Física II b | [x] | [ ] | [ ] |
+| Análisis Matemático III a | [x] | [ ] | [ ] |
+| Ingeniería de Características | [x] | [ ] | [ ] |
+| Aprendizaje por Refuerzo | [x] | [ ] | [ ] |
+| Cálculo Numérico | [x] | [ ] | [ ] |
+| Electiva I | [x] | [ ] | [ ] |
+| Visión Computacional | [x] | [ ] | [ ] |
+| Fundamentos de Data Science | [x] | [ ] | [ ] |
+| Electiva II | [x] | [ ] | [ ] |
+| Derecho aplicado a la Informática | [x] | [ ] | [ ] |
+| Administración de Proyectos | [x] | [ ] | [ ] |
+| Proyecto de Investigación I | [x] | [ ] | [ ] |
+| Fundamentos de Economía y Finanzas | [x] | [ ] | [ ] |
+| Introducción a la Robótica | [x] | [ ] | [ ] |
+| Electiva III | [x] | [ ] | [ ] |
+| Sistemas Operativos Distribuidos | [x] | [ ] | [ ] |
+| Práctica Profesional | [x] | [ ] | [ ] |
+| Electiva IV | [x] | [ ] | [ ] |
+| Electiva V | [x] | [ ] | [ ] |
+| Electiva VI | [x] | [ ] | [ ] |
+| Trabajo Final de Grado | [x] | [ ] | [ ] |
