@@ -79,8 +79,8 @@
 
 Progreso general de la carrera
 
-<!-- Actualiza el valor de la barra según asignaturas aprobadas -->
-![Avance](https://progress-bar.dev/0/?width=300)
+<!-- Actualiza el valor de "value" con el porcentaje de materias aprobadas -->
+<progress value="0" max="100">0%</progress>
 
 | Materia | Sin cursar | Cursando | Aprobado |
 | --- | --- | --- | --- |
