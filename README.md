@@ -87,13 +87,17 @@ Progreso general de la carrera
 | Sistemas y Métodos | [x] | [ ] | [ ] |
 | Análisis Matemático I | [x] | [ ] | [ ] |
 | Sistemas Digitales I | [x] | [ ] | [ ] |
+| Introducción a la Programación | [ ] | [ ] | [x] |
+| Computación Aplicada | [ ] | [ ] | [x] |
 | Álgebra | [x] | [ ] | [ ] |
 | Análisis Matemático II | [x] | [ ] | [ ] |
 | Arquitectura de Computadores | [x] | [ ] | [ ] |
+| Base de Datos | [ ] | [ ] | [x] |
 | Estructuras de Datos y Algoritmos | [x] | [ ] | [ ] |
 | Álgebra Lineal | [x] | [ ] | [ ] |
 | Fundamentos de Inteligencia Artificial | [x] | [ ] | [ ] |
 | Probabilidad y Estadística | [x] | [ ] | [ ] |
+| Laboratorio I | [ ] | [ ] | [x] |
 | Introducción a la Ingeniería de Software | [x] | [ ] | [ ] |
 | Análisis de Sistemas | [x] | [ ] | [ ] |
 | Probabilidad y Estadística II | [x] | [ ] | [ ] |
@@ -111,6 +115,7 @@ Progreso general de la carrera
 | Análisis Matemático III a | [x] | [ ] | [ ] |
 | Ingeniería de Características | [x] | [ ] | [ ] |
 | Aprendizaje por Refuerzo | [x] | [ ] | [ ] |
+| Laboratorio III | [ ] | [ ] | [x] |
 | Cálculo Numérico | [x] | [ ] | [ ] |
 | Electiva I | [x] | [ ] | [ ] |
 | Visión Computacional | [x] | [ ] | [ ] |
@@ -124,7 +129,9 @@ Progreso general de la carrera
 | Electiva III | [x] | [ ] | [ ] |
 | Sistemas Operativos Distribuidos | [x] | [ ] | [ ] |
 | Práctica Profesional | [x] | [ ] | [ ] |
+| Organización, Gestión y Entrepreneurship | [ ] | [ ] | [x] |
 | Electiva IV | [x] | [ ] | [ ] |
 | Electiva V | [x] | [ ] | [ ] |
 | Electiva VI | [x] | [ ] | [ ] |
 | Trabajo Final de Grado | [x] | [ ] | [ ] |
+
