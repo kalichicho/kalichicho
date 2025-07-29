@@ -75,63 +75,62 @@
 
 ---
 
-## Ingeniero en Inteligencia Artificial en formación
+## AI Engineer in Training
 
-Progreso general de la carrera
+Overall program progress
 
-<!-- Actualiza el valor de "value" con el porcentaje de materias aprobadas -->
+<!-- Update the "value" attribute with the percentage of courses completed -->
 <progress value="12" max="100">12%</progress>
 
-| Materia | Sin cursar | Cursando | Aprobado |
+| Subject | Not taken | In progress | Passed |
 | --- | --- | --- | --- |
-| Sistemas y Métodos | [x] | [ ] | [ ] |
-| Análisis Matemático I | [x] | [ ] | [ ] |
-| Sistemas Digitales I | [x] | [ ] | [ ] |
-| Introducción a la Programación | [ ] | [ ] | [x] |
-| Computación Aplicada | [ ] | [ ] | [x] |
-| Álgebra | [x] | [ ] | [ ] |
-| Análisis Matemático II | [x] | [ ] | [ ] |
-| Arquitectura de Computadores | [x] | [ ] | [ ] |
-| Base de Datos | [ ] | [ ] | [x] |
-| Estructuras de Datos y Algoritmos | [x] | [ ] | [ ] |
-| Álgebra Lineal | [x] | [ ] | [ ] |
-| Fundamentos de Inteligencia Artificial | [x] | [ ] | [ ] |
-| Probabilidad y Estadística | [x] | [ ] | [ ] |
-| Laboratorio I | [ ] | [ ] | [x] |
-| Introducción a la Ingeniería de Software | [x] | [ ] | [ ] |
-| Análisis de Sistemas | [x] | [ ] | [ ] |
-| Probabilidad y Estadística II | [x] | [ ] | [ ] |
-| Aprendizaje de Máquina | [x] | [ ] | [ ] |
-| Análisis de la Información y la Decisión | [x] | [ ] | [ ] |
-| Matemática Discreta | [x] | [ ] | [ ] |
-| Introducción a las Comunicaciones | [x] | [ ] | [ ] |
-| Física I | [x] | [ ] | [ ] |
-| Laboratorio II | [x] | [ ] | [ ] |
-| Redes Neuronales | [x] | [ ] | [ ] |
-| Procesamiento de Lenguaje Natural | [x] | [ ] | [ ] |
+| Systems and Methods | [x] | [ ] | [ ] |
+| Mathematical Analysis I | [x] | [ ] | [ ] |
+| Digital Systems I | [x] | [ ] | [ ] |
+| Introduction to Programming | [ ] | [ ] | [x] |
+| Applied Computing | [ ] | [ ] | [x] |
+| Algebra | [x] | [ ] | [ ] |
+| Mathematical Analysis II | [x] | [ ] | [ ] |
+| Computer Architecture | [x] | [ ] | [ ] |
+| Databases | [ ] | [ ] | [x] |
+| Data Structures and Algorithms | [x] | [ ] | [ ] |
+| Linear Algebra | [x] | [ ] | [ ] |
+| Fundamentals of Artificial Intelligence | [x] | [ ] | [ ] |
+| Probability and Statistics | [x] | [ ] | [ ] |
+| Laboratory I | [ ] | [ ] | [x] |
+| Introduction to Software Engineering | [x] | [ ] | [ ] |
+| Systems Analysis | [x] | [ ] | [ ] |
+| Probability and Statistics II | [x] | [ ] | [ ] |
+| Machine Learning | [x] | [ ] | [ ] |
+| Information and Decision Analysis | [x] | [ ] | [ ] |
+| Discrete Mathematics | [x] | [ ] | [ ] |
+| Introduction to Communications | [x] | [ ] | [ ] |
+| Physics I | [x] | [ ] | [ ] |
+| Laboratory II | [x] | [ ] | [ ] |
+| Neural Networks | [x] | [ ] | [ ] |
+| Natural Language Processing | [x] | [ ] | [ ] |
 | Big Data | [x] | [ ] | [ ] |
-| Sistemas Operativos | [x] | [ ] | [ ] |
-| Física II b | [x] | [ ] | [ ] |
-| Análisis Matemático III a | [x] | [ ] | [ ] |
-| Ingeniería de Características | [x] | [ ] | [ ] |
-| Aprendizaje por Refuerzo | [x] | [ ] | [ ] |
-| Laboratorio III | [ ] | [ ] | [x] |
-| Cálculo Numérico | [x] | [ ] | [ ] |
-| Electiva I | [x] | [ ] | [ ] |
-| Visión Computacional | [x] | [ ] | [ ] |
-| Fundamentos de Data Science | [x] | [ ] | [ ] |
-| Electiva II | [x] | [ ] | [ ] |
-| Derecho aplicado a la Informática | [x] | [ ] | [ ] |
-| Administración de Proyectos | [x] | [ ] | [ ] |
-| Proyecto de Investigación I | [x] | [ ] | [ ] |
-| Fundamentos de Economía y Finanzas | [x] | [ ] | [ ] |
-| Introducción a la Robótica | [x] | [ ] | [ ] |
-| Electiva III | [x] | [ ] | [ ] |
-| Sistemas Operativos Distribuidos | [x] | [ ] | [ ] |
-| Práctica Profesional | [x] | [ ] | [ ] |
-| Organización, Gestión y Entrepreneurship | [ ] | [ ] | [x] |
-| Electiva IV | [x] | [ ] | [ ] |
-| Electiva V | [x] | [ ] | [ ] |
-| Electiva VI | [x] | [ ] | [ ] |
-| Trabajo Final de Grado | [x] | [ ] | [ ] |
-
+| Operating Systems | [x] | [ ] | [ ] |
+| Physics II b | [x] | [ ] | [ ] |
+| Mathematical Analysis III a | [x] | [ ] | [ ] |
+| Feature Engineering | [x] | [ ] | [ ] |
+| Reinforcement Learning | [x] | [ ] | [ ] |
+| Laboratory III | [ ] | [ ] | [x] |
+| Numerical Analysis | [x] | [ ] | [ ] |
+| Elective I | [x] | [ ] | [ ] |
+| Computer Vision | [x] | [ ] | [ ] |
+| Fundamentals of Data Science | [x] | [ ] | [ ] |
+| Elective II | [x] | [ ] | [ ] |
+| IT Law | [x] | [ ] | [ ] |
+| Project Management | [x] | [ ] | [ ] |
+| Research Project I | [x] | [ ] | [ ] |
+| Fundamentals of Economics and Finance | [x] | [ ] | [ ] |
+| Introduction to Robotics | [x] | [ ] | [ ] |
+| Elective III | [x] | [ ] | [ ] |
+| Distributed Operating Systems | [x] | [ ] | [ ] |
+| Professional Practice | [x] | [ ] | [ ] |
+| Organization, Management and Entrepreneurship | [ ] | [ ] | [x] |
+| Elective IV | [x] | [ ] | [ ] |
+| Elective V | [x] | [ ] | [ ] |
+| Elective VI | [x] | [ ] | [ ] |
+| Final Degree Project | [x] | [ ] | [ ] |
