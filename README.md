@@ -117,7 +117,7 @@ Overall program progress
 | Reinforcement Learning | [x] | [ ] | [ ] |
 | Laboratory III | [ ] | [ ] | [x] |
 | Numerical Analysis | [x] | [ ] | [ ] |
-| Elective I | [x] | [ ] | [ ] |
+| Elective I | [ ] | [ ] | [x] |
 | Computer Vision | [x] | [ ] | [ ] |
 | Fundamentals of Data Science | [x] | [ ] | [ ] |
 | Elective II | [x] | [ ] | [ ] |
